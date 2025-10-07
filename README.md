@@ -4,8 +4,6 @@
 🔐 Passionate about **DevOps**, **network security**, **cloud infrastructure**, and **automation**  
 ⚙️ Experienced in secrets management, infrastructure-as-code, and secure deployments.
 
----
-
 ## 🧰 Technical Skills
 
 - **Languages:** Python, Bash, PowerShell, PHP, JavaScript, HTML/CSS  
@@ -16,11 +14,9 @@
 - **Security & Pentesting:** Nmap, Metasploit, Burp Suite, Gobuster, Shodan  
 - **Tools:** Git, VS Code, Azure, GCP  
 
----
-
 ## 💼 Professional Experience
 
-### 🛡️ NetOps Engineer – Loto-Québec  
+### NetOps Engineer – Loto-Québec  
 📍 Montreal, Canada | Sep 2025 – Jan 2026  
 
 - Designed and deployed a **HashiCorp Vault Enterprise** cluster for centralized secrets management.  
@@ -30,9 +26,7 @@
 - Developed Python and Bash tools to support **infrastructure-as-code** deployments.  
 - Used Terraform to deploy resources on **HCP Cloud**.
 
----
-
-### 🔐 DevSecOps Engineer – BE YS Software  
+### DevSecOps Engineer – BE YS Software  
 📍 Remote – Annecy, France | Apr 2023 – Aug 2024  
 
 - Secured SSH access to cloud-based virtual machines (OpenStack) with **Terraform** and **Ansible**.  
@@ -48,18 +42,15 @@
 - 🎓 **Master’s in Cybersecurity** – UQAC – Québec, Canada | 2025 – 2027 *(in progress)*  
 - 🎓 **Bachelor’s Degree in Network, Systems & Cybersecurity** – Université Savoie Mont-Blanc, France | 2021 – 2024  
 
----
-
-## 📜 Certifications
+## Certifications
 
 - **CCNA Cisco 1** – 2021 – 2022  
 - **CCNA Cisco 2** – 2022 – 2023  
 - **CSNA Stormshield Firewall** – 2022 – 2023  
 - **CSNE Stormshield Firewall** – 2023 – 2024  
 
----
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### 📧 Remail IQ – AI-Powered B2B Email Generation Platform  
 - Built a SaaS platform for AI-generated B2B emails.  
@@ -67,14 +58,12 @@
 - Developed a **JavaScript/Node.js frontend** and deployed the system with **CI/CD on Azure**.  
 - [See project on GitHub](https://github.com/macsborb)
 
----
 
-### 🐶 Dog Breed Classification – Machine Learning Project  
+### Dog Breed Classification – Machine Learning Project  
 - Built a **CNN in PyTorch** to classify over **120 dog breeds**.  
 - Preprocessed and augmented **20,000+ images** to improve accuracy and generalization.  
 - Deployed an interactive **Streamlit web app** for model visualization.
 
----
 
 ## 📊 GitHub Stats
 
@@ -82,7 +71,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macsborb&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 Contact
 
