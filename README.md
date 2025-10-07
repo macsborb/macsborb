@@ -76,5 +76,6 @@
 
 - 📍 Montreal, QC – Canada  
 - 📧 [blancrobbie@gmail.com](mailto:blancrobbie@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/robbie-blanc-a37093228)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/blancrobbie)  
 - 🐙 [GitHub](https://github.com/macsborb)
+- [Portfolio](https://macsborb.github.io/portfolio)
